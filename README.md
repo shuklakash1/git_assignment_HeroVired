@@ -23,4 +23,12 @@
 8. The collaborator was able to download the file without any issues
 
 1. Question 3 -
-2. 
+2. Created main branch geo calculator
+3. Created circle area branch
+4. Added circle area calculation code
+5. Stashed the code of circle area
+6. Created rectangle area branch
+7. Added rectangle area branch code
+8. Stashed rectangle area code
+9. Merged both branches with geo calculator after creating a Pull Request
+    
