@@ -29,4 +29,4 @@
 5. Stashed changes for rectangle
 6. Went back to circle, retrieved stashed changes, pushed them.
 7. Went back to rectangle, retrieved stashed changes, pushed them
-8. Merged them with dev branch
+
