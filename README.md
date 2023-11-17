@@ -20,7 +20,13 @@
 5. Created a branch named LFS
 6. Pushed the binary file to github via branch LFS
 7. LFS file was tracked via PSD command and showed the upload process
-8. The collaborator was able to download the file without any issues
+
 
 1. Question 3 -
-2. 
+2. Created a new branch for circle feature
+3. Stashed the changes
+4. Created a new branch for rectangle feature
+5. Stashed changes for rectangle
+6. Went back to circle, retrieved stashed changes, pushed them.
+7. Went back to rectangle, retrieved stashed changes, pushed them
+8. Merged them with dev branch
